@@ -1,5 +1,5 @@
 require 'sinatra'
-require_relative 'CalculadoraFactoresPrimos'
+require_relative 'model/CalculadoraFactoresPrimos'
 
 calculadora = CalculadoraFactoresPrimos.new
 
